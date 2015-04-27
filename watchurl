@@ -1,0 +1,7 @@
+# rubygem-thread_safe requires version (~>3.2.2)
+# check: https://github.com/ruby-concurrency/thread_safe/blob/master/Gemfile
+# rubygem-mocha requires version (~>1)
+# check: https://rubygems.org/gems/mocha/versions/1.1.0
+# rubygem-docile requires version (>=0)
+# check: https://rubygems.org/gems/docile/versions/1.1.5
+watchurl=https://rubygems.org/gems/redcarpet/versions/(3.2.[\d.]*)
